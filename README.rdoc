@@ -1,0 +1,5 @@
+= PyRu-Hacks
+Automating routine stuff using Python (mostly) and Ruby. For fun.
+
+== Author
+Gaurav Menghani
